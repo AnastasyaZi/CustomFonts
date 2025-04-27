@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'PhoenixPloniFont';
+  src: url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-black-aaa.woff') format('woff'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-black-aaa.woff2') format('woff2'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-bold-aaa.woff') format('woff'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-bold-aaa.woff2') format('woff2'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-demibold-aaa.woff') format('woff'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-demibold-aaa.woff2') format('woff2'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-medium-aaa.woff') format('woff'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-medium-aaa.woff2') format('woff2'),   
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-regular-aaa.woff') format('woff'),
+       url('https://github.com/AnastasyaZi/CustomFonts/PhoenixPloniFont/ploni-regular-aaa.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
